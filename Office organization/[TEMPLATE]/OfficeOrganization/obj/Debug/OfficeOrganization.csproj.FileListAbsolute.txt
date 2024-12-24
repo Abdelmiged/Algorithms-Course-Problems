@@ -1,20 +1,3 @@
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.AssemblyReference.cache
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.SuggestedBindingRedirects.cache
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.CoreCompileInputs.cache
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
-C:\Users\abdel\Desktop\Algorithm Assignment\Office organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:9817878e70aa268eb80a276c183dbc8d693e164092e58980a8b6dfa0cc643ac5
+size 3108

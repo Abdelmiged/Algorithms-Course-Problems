@@ -1,1 +1,3 @@
-THE DOG
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70fb83b73e0a16e5110c4a72343b7dfd42ef9e0b11dbe2df04603d41626d01b
+size 7

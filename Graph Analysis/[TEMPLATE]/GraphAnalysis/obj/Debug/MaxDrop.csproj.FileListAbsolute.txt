@@ -1,9 +1,3 @@
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\bin\Debug\MaxDrop.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\bin\Debug\MaxDrop.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\bin\Debug\MaxDrop.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\obj\Debug\MaxDrop.csprojResolveAssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\obj\Debug\MaxDrop.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R2] Max Drop\[SOLUTION]\MaxDrop\obj\Debug\MaxDrop.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\bin\Debug\MaxDrop.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\MaxDrop.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[3 - AUTOGRADE] Is it a Tree\[SOLUTION]\IsItTree\obj\Debug\MaxDrop.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0000c74840db7ca57b177d280ba511917d60400425ed6230e536f3c9011e40c
+size 1226

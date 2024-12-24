@@ -1,2 +1,3 @@
-"Stanford University"
-(Stanford)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8199ad514ba0408b82e6e235eace660a75e38a97e51ab066c72d5496ef186c0
+size 33

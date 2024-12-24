@@ -1,9 +1,3 @@
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\bin\Debug\SumToNumber.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\obj\Debug\SumToNumber.csprojResolveAssemblyReference.cache
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\bin\Debug\SumToNumber.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\bin\Debug\SumToNumber.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\obj\Debug\SumToNumber.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R4] Sum to Number\[SOLUTION]\SumToNumber\obj\Debug\SumToNumber.pdb
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U7] Modulo Sum\[SOLUTION]\ModuloSum\bin\Debug\SumToNumber.exe.config
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U7] Modulo Sum\[SOLUTION]\ModuloSum\obj\Debug\SumToNumber.exe
-E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U7] Modulo Sum\[SOLUTION]\ModuloSum\obj\Debug\SumToNumber.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f77055f7d1043ffb66294fc5fc6c4be3d2f8fc59729a7814a037d8b2766e784
+size 1247

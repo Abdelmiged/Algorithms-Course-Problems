@@ -1,6 +1,3 @@
-[1] INVESTIGATING THE IMPACT OF THE YEAR 2000 PROBLEM  The Year 2000 (Y2K) technology problem started as an innocuous short-term solution to the oppressively high cost of computer memory in the 1950s and 1960s. 
-[3] Fifty years after the introduction of the computer, the Y2K problem has the potential to develop into a worldwide crisis. [4] Two common human failings contributed to the crisis -- tendency to follow a path of least resistance and the reluctance to champion difficult and complex issues. 
-[5] The Y2K problem does not have to be a story of failure, however. 
-[6] If addressed successfully, Y2K may encourage political and corporate leaders to better understand and protect the critical infrastructure. 
-[8] Newer versions of hardware and software needed to interface with older versions. 
-[9] While some programs were modified so that a new system could accept four-digit years and still exchange information with two-digit based systems, the extra effort required slowed the changeover process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9b107497a4433120d1ebe538da40652fba46a64bfda3ae0207f33c02d3d5d29
+size 1016

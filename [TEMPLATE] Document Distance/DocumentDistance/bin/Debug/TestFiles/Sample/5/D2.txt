@@ -1,1 +1,3 @@
-"Doubt truth to be a liar"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dce5fabbc8bda7eaa9a240214fe2e4dff6d95e4ac460047f5befb11df96c505
+size 26

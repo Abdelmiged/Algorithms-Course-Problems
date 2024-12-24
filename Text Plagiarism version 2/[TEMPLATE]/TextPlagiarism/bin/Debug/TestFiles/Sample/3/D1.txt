@@ -1,1 +1,3 @@
-A well regulated Militia, being NECESSARY to the security of a free State, the right of people to keep & bear Arms, shalln't be infringed
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c5bcfec4e436c71f3a7de27d4b3859764c6ab42a46ac218a1b814a1f66f28e2
+size 139

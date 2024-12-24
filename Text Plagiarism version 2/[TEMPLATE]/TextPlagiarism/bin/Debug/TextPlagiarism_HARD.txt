@@ -1,9 +1,3 @@
-2
-TestFiles\Complete\QUERY\Q1.txt
-TestFiles\Complete\D1.txt
-63
-timeout:20
-TestFiles\Complete\QUERY\Q61.txt
-TestFiles\Complete\D6.txt
-240
-timeout:6000
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d60e18372d1d39701cdf3f200e1e26c4b3afbab95db0e8fd7c7d59dfdfad7c
+size 159

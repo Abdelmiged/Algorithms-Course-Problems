@@ -1,10 +1,3 @@
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
-C:\Users\abdel\Desktop\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:38fe7be4310c022f325cccdbf5fa4ae9fbc744ba59c46ea017c8011b6c2d5498
+size 1088

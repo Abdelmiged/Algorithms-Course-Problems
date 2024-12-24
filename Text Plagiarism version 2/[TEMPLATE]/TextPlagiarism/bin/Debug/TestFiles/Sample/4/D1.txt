@@ -1,1 +1,3 @@
-Newer ver's of H/W and S/W  needed to interface with older versions. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf314ea2cd388fda491ca1e9e73480f82e2d9ffafc55637b33a2a0c3383ec009
+size 69

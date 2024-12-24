@@ -1,1 +1,3 @@
-50 years after introducing a computer, the Y2K issue has the potential to develop into a global crisis. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38841d74b956955b779cc243847ae0856c6beb17e3ccbfc32a8d5203ba67d27
+size 104

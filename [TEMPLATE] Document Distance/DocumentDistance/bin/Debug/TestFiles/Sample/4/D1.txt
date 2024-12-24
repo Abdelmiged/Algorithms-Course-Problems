@@ -1,2 +1,3 @@
-"Massachusetts Institute of Technology"
-(MIT)
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d3f26e2a459808f897be833f3856b9d1888126c42b3bb34baee4bfd538d6bb
+size 46

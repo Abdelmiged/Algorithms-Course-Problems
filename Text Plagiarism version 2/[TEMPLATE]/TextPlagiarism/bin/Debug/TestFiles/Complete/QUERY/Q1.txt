@@ -1,1 +1,3 @@
-This morning Mr. F. Napoleon S. awoke in very bad humor. His wife having left for France eight days ago, he was feeling disconsolate. Incredible though it seems, in all the ten years since their marriage, this is the first time that Mrs. Edith S., the professional beauty, has been so long absent from home; two or three days usually suffice for her frequent trips to Africa. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:379e34938758fcfd5c8e30cac0a25225bf204c7417d66d4e48bbe6c1ddbc64e3
+size 376
