@@ -1,0 +1,19 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csprojResolveAssemblyReference.cache
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+C:\Users\abdel\Desktop\Algorithm Assignment\Text Plagiarism version 2\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
